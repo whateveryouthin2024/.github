@@ -23,9 +23,7 @@
                 }
             },
             "policyInfo": "MIT License is required for code or legal approval for an alternative",
-            "policyUrl": "https://github.com/github/open-source/blob/main/policies/release.md"
-        },
-        "readme-file-exists": {
+            "policyUrl": "https://github.com/github/open-source/blob/main/policies
             "level": "warning",
             "rule": {
                 "type": "file-existence",
